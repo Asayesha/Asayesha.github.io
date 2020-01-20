@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendation system on Sayesha Aravapalli</title>
+    <link>https://Asayesha.github.io/tags/recommendation-system/</link>
+    <description>Recent content in Recommendation system on Sayesha Aravapalli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://Asayesha.github.io/tags/recommendation-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recommendation Engine</title>
+      <link>https://Asayesha.github.io/projects/projects/2book-recommendation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
+      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. The dataset used is Goodreads book rating data.</description>
+    </item>
+    
+  </channel>
+</rss>

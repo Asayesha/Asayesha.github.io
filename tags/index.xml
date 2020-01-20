@@ -111,24 +111,6 @@
     </item>
     
     <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://Asayesha.github.io/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://Asayesha.github.io/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>BigQuery</title>
       <link>https://Asayesha.github.io/tags/bigquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -138,29 +120,11 @@
     </item>
     
     <item>
-      <title>Bitbucket</title>
-      <link>https://Asayesha.github.io/tags/bitbucket/</link>
+      <title>Collaborative Filtering</title>
+      <link>https://Asayesha.github.io/tags/collaborative-filtering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://Asayesha.github.io/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://Asayesha.github.io/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/docker/</guid>
+      <guid>https://Asayesha.github.io/tags/collaborative-filtering/</guid>
       <description></description>
     </item>
     
@@ -174,47 +138,11 @@
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://Asayesha.github.io/tags/java/</link>
+      <title>K-Means Clustering</title>
+      <link>https://Asayesha.github.io/tags/k-means-clustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://Asayesha.github.io/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://Asayesha.github.io/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://Asayesha.github.io/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://Asayesha.github.io/tags/json/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/json/</guid>
+      <guid>https://Asayesha.github.io/tags/k-means-clustering/</guid>
       <description></description>
     </item>
     
@@ -228,11 +156,11 @@
     </item>
     
     <item>
-      <title>node.js</title>
-      <link>https://Asayesha.github.io/tags/node.js/</link>
+      <title>NewsFeed Analysis</title>
+      <link>https://Asayesha.github.io/tags/newsfeed-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/tags/node.js/</guid>
+      <guid>https://Asayesha.github.io/tags/newsfeed-analysis/</guid>
       <description></description>
     </item>
     
@@ -255,20 +183,29 @@
     </item>
     
     <item>
-      <title>Rest APIs</title>
-      <link>https://Asayesha.github.io/tags/rest-apis/</link>
+      <title>Recommendation system</title>
+      <link>https://Asayesha.github.io/tags/recommendation-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/tags/rest-apis/</guid>
+      <guid>https://Asayesha.github.io/tags/recommendation-system/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spring</title>
-      <link>https://Asayesha.github.io/tags/spring/</link>
+      <title>User Engagement Analysis</title>
+      <link>https://Asayesha.github.io/tags/user-engagement-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/tags/spring/</guid>
+      <guid>https://Asayesha.github.io/tags/user-engagement-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Engagement Improvement</title>
+      <link>https://Asayesha.github.io/tags/user-engagement-improvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/user-engagement-improvement/</guid>
       <description></description>
     </item>
     

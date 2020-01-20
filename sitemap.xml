@@ -3,33 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Asayesha.github.io/projects/creations/</loc>
+    <loc>https://Asayesha.github.io/projects/projects/</loc>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/contributions/</loc>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://Asayesha.github.io/publications/alldaydevops/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/contributions/schema-org/</loc>
     <priority>0.8</priority>
   </url>
   
@@ -116,23 +96,7 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/atlassian-developer-ecosystem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/bamboo/</loc>
-  </url>
-  
-  <url>
     <loc>https://Asayesha.github.io/tags/bigquery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/bitbucket/</loc>
   </url>
   
   <url>
@@ -140,15 +104,11 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/confluence/</loc>
+    <loc>https://Asayesha.github.io/tags/collaborative-filtering/</loc>
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/docker/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/projects/creations/google-analytics/</loc>
+    <loc>https://Asayesha.github.io/projects/projects/1google-analytics/</loc>
   </url>
   
   <url>
@@ -156,27 +116,11 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/projects/creations/instagram-engagement/</loc>
+    <loc>https://Asayesha.github.io/projects/projects/3instagram-engagement/</loc>
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/java/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/javascript/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/jira/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/jquery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Asayesha.github.io/tags/json/</loc>
+    <loc>https://Asayesha.github.io/tags/k-means-clustering/</loc>
   </url>
   
   <url>
@@ -184,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/node.js/</loc>
+    <loc>https://Asayesha.github.io/tags/newsfeed-analysis/</loc>
   </url>
   
   <url>
@@ -201,7 +145,11 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/rest-apis/</loc>
+    <loc>https://Asayesha.github.io/projects/projects/2book-recommendation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/recommendation-system/</loc>
   </url>
   
   <url>
@@ -210,7 +158,11 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/spring/</loc>
+    <loc>https://Asayesha.github.io/tags/user-engagement-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/user-engagement-improvement/</loc>
   </url>
   
   <url>
