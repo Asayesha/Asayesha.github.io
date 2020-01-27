@@ -108,6 +108,10 @@
   </url>
   
   <url>
+    <loc>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</loc>
+  </url>
+  
+  <url>
     <loc>https://Asayesha.github.io/tags/google-analytics/</loc>
   </url>
   
@@ -163,6 +167,10 @@
   <url>
     <loc>https://Asayesha.github.io/search/</loc>
     <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/time-series-analysis/</loc>
   </url>
   
   <url>
