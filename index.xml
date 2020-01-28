@@ -32,6 +32,15 @@
     </item>
     
     <item>
+      <title>Austin Crimes</title>
+      <link>https://Asayesha.github.io/projects/projects/5austin-crimes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/5austin-crimes/</guid>
+      <description>To understand how safe is the city of Austin, we set out to analyse Austin crime data and dig deeper into why crimes in Austin increased drastically in the year 2018. The data showed that non-violent crimes have been increasing but violent crimes were decreasing.The average processing time for violent crimes is 44 days where as for non-violetn crimes is 30 days.</description>
+    </item>
+    
+    <item>
       <title>Energy Consumption Prediction</title>
       <link>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +88,15 @@ Setting a very low sitemap priority will tell search engines this is not importa
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
 [outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>US Traffic Fatalities Analysis</title>
+      <link>https://Asayesha.github.io/projects/projects/6us-traffic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/6us-traffic/</guid>
+      <description>Fatality Analysis Reporting System (FARS) was created in the United States by the National Highway Traffic Safety Administration (NHTSA) to provide an overall measure of highway safety. It contains data on a census of fatal traffic crashes within the 50 States, the District of Columbia, and Puerto Rico.To be included in FARS, a crash must result in the death of a person (occupant of a vehicle or a non-occupant) within 30 days of the crash.</description>
     </item>
     
   </channel>
