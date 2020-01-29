@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Dirichlet allocation on Sayesha Aravapalli</title>
+    <link>https://Asayesha.github.io/tags/latent-dirichlet-allocation/</link>
+    <description>Recent content in Latent Dirichlet allocation on Sayesha Aravapalli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://Asayesha.github.io/tags/latent-dirichlet-allocation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instagram User Engagement</title>
+      <link>https://Asayesha.github.io/projects/projects/3instagram-engagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/3instagram-engagement/</guid>
+      <description>Considering that in 2014 social users posted an average of 1.8 billion photos to the internet daily and the growth of image-centric platforms like Instagram, Snapchat and Pinterestmakes analyzing visual data also very important to understand your audience. Using data scraped form the Instagrampage of Natgeo, this project answers the question What should National Geographic do to increase engagement on its Instagram page?</description>
+    </item>
+    
+  </channel>
+</rss>

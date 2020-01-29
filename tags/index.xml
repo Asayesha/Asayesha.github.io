@@ -111,6 +111,15 @@
     </item>
     
     <item>
+      <title>Big Query</title>
+      <link>https://Asayesha.github.io/tags/big-query/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/big-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BigQuery</title>
       <link>https://Asayesha.github.io/tags/bigquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -125,15 +134,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/bokeh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaborative Filtering</title>
-      <link>https://Asayesha.github.io/tags/collaborative-filtering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/tags/collaborative-filtering/</guid>
       <description></description>
     </item>
     
@@ -156,6 +156,15 @@
     </item>
     
     <item>
+      <title>Google Colab</title>
+      <link>https://Asayesha.github.io/tags/google-colab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/google-colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Google Vision</title>
       <link>https://Asayesha.github.io/tags/google-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,11 +183,56 @@
     </item>
     
     <item>
+      <title>Item -based collaborative Filtering</title>
+      <link>https://Asayesha.github.io/tags/item-based-collaborative-filtering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/item-based-collaborative-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>K-Means Clustering</title>
       <link>https://Asayesha.github.io/tags/k-means-clustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/k-means-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-prototype</title>
+      <link>https://Asayesha.github.io/tags/k-prototype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/k-prototype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Dirichlet allocation</title>
+      <link>https://Asayesha.github.io/tags/latent-dirichlet-allocation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/latent-dirichlet-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift analysis</title>
+      <link>https://Asayesha.github.io/tags/lift-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/lift-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lightGBM</title>
+      <link>https://Asayesha.github.io/tags/lightgbm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/lightgbm/</guid>
       <description></description>
     </item>
     
@@ -197,6 +251,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/newsfeed-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://Asayesha.github.io/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
@@ -237,11 +300,20 @@
     </item>
     
     <item>
-      <title>Seaborn</title>
+      <title>seaborn</title>
       <link>https://Asayesha.github.io/tags/seaborn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TF-IDF</title>
+      <link>https://Asayesha.github.io/tags/tf-idf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/tf-idf/</guid>
       <description></description>
     </item>
     
@@ -251,6 +323,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/time-series-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic modelling</title>
+      <link>https://Asayesha.github.io/tags/topic-modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/topic-modelling/</guid>
       <description></description>
     </item>
     
@@ -269,6 +350,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/tags/user-engagement-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-based collaborative Filtering</title>
+      <link>https://Asayesha.github.io/tags/user-based-collaborative-filtering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/user-based-collaborative-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web scrapping</title>
+      <link>https://Asayesha.github.io/tags/web-scrapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/tags/web-scrapping/</guid>
       <description></description>
     </item>
     

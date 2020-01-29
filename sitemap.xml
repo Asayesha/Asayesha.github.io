@@ -100,6 +100,10 @@
   </url>
   
   <url>
+    <loc>https://Asayesha.github.io/tags/big-query/</loc>
+  </url>
+  
+  <url>
     <loc>https://Asayesha.github.io/tags/bigquery/</loc>
   </url>
   
@@ -108,11 +112,11 @@
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/categories/</loc>
+    <loc>https://Asayesha.github.io/projects/projects/7carbrand/</loc>
   </url>
   
   <url>
-    <loc>https://Asayesha.github.io/tags/collaborative-filtering/</loc>
+    <loc>https://Asayesha.github.io/categories/</loc>
   </url>
   
   <url>
@@ -132,6 +136,10 @@
   </url>
   
   <url>
+    <loc>https://Asayesha.github.io/tags/google-colab/</loc>
+  </url>
+  
+  <url>
     <loc>https://Asayesha.github.io/tags/google-vision/</loc>
   </url>
   
@@ -144,7 +152,27 @@
   </url>
   
   <url>
+    <loc>https://Asayesha.github.io/tags/item-based-collaborative-filtering/</loc>
+  </url>
+  
+  <url>
     <loc>https://Asayesha.github.io/tags/k-means-clustering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/k-prototype/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/latent-dirichlet-allocation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/lift-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/lightgbm/</loc>
   </url>
   
   <url>
@@ -153,6 +181,10 @@
   
   <url>
     <loc>https://Asayesha.github.io/tags/newsfeed-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/nlp/</loc>
   </url>
   
   <url>
@@ -190,7 +222,15 @@
   </url>
   
   <url>
+    <loc>https://Asayesha.github.io/tags/tf-idf/</loc>
+  </url>
+  
+  <url>
     <loc>https://Asayesha.github.io/tags/time-series-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/topic-modelling/</loc>
   </url>
   
   <url>
@@ -203,6 +243,14 @@
   
   <url>
     <loc>https://Asayesha.github.io/tags/user-engagement-improvement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/user-based-collaborative-filtering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Asayesha.github.io/tags/web-scrapping/</loc>
   </url>
   
   <url>

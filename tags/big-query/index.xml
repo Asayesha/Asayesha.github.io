@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>seaborn on Sayesha Aravapalli</title>
-    <link>https://Asayesha.github.io/tags/seaborn/</link>
-    <description>Recent content in seaborn on Sayesha Aravapalli</description>
+    <title>Big Query on Sayesha Aravapalli</title>
+    <link>https://Asayesha.github.io/tags/big-query/</link>
+    <description>Recent content in Big Query on Sayesha Aravapalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://Asayesha.github.io/tags/seaborn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Asayesha.github.io/tags/big-query/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Austin Crimes</title>
-      <link>https://Asayesha.github.io/projects/projects/5austin-crimes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/5austin-crimes/</guid>
-      <description>To understand how safe is the city of Austin, we set out to analyse Austin crime data and dig deeper into why crimes in Austin increased drastically in the year 2018. The data showed that non-violent crimes have been increasing but violent crimes were decreasing.The average processing time for violent crimes is 44 days where as for non-violetn crimes is 30 days.</description>
-    </item>
     
     <item>
       <title>US Traffic Fatalities Analysis</title>

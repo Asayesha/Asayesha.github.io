@@ -19,5 +19,14 @@
       <description>To understand how safe is the city of Austin, we set out to analyse Austin crime data and dig deeper into why crimes in Austin increased drastically in the year 2018. The data showed that non-violent crimes have been increasing but violent crimes were decreasing.The average processing time for violent crimes is 44 days where as for non-violetn crimes is 30 days.</description>
     </item>
     
+    <item>
+      <title>Energy Consumption Prediction</title>
+      <link>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</guid>
+      <description>Recent global phenomena related to climate change, call for a new strategy to collectively move towards sustainable energy and reduce our carbon footprint. In one such effort, building owners are incentivised to improve building efficiencies to reduce operating costs and emissions. In this project, building energy consumption is predicted which can then be compared to the actual running costs and decide upon the incentives. Operating costs from over 1000 building over a 3 year timeframe is used to build the prediction model.</description>
+    </item>
+    
   </channel>
 </rss>
