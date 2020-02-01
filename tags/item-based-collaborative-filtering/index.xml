@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
-      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. The dataset used is Goodreads book rating data.</description>
+      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
     </item>
     
   </channel>

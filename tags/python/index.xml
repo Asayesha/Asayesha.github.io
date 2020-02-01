@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/projects/projects/1google-analytics/</guid>
-      <description>A consulting project for a Dallas based start-up to understand customer base. The goal of this project was to help the management understand where to allocate their resources to increase their current customer base. Additionally, it was attempted to advise management on its consideration to invest in google analytics 360 as an analysis platform.</description>
+      <description>A consulting project for a solar energy based start-up to understand potential customers based on customer sign-ups. The goal of this project was help the management understand features influencing customer sign-ups - Recommended marketing channels and optimization of mobile website. Also advised a third party vendor for easier access of data for future use.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/projects/projects/3instagram-engagement/</guid>
-      <description>Considering that in 2014 social users posted an average of 1.8 billion photos to the internet daily and the growth of image-centric platforms like Instagram, Snapchat and Pinterestmakes analyzing visual data also very important to understand your audience. Using data scraped form the Instagrampage of Natgeo, this project answers the question What should National Geographic do to increase engagement on its Instagram page?</description>
+      <description>Considering that in 2014 social users posted an average of 1.8 billion photos to the internet daily and the growth of image-centric platforms like Instagram, Snapchat and Pinterestmakes analyzing visual data also very important to understand your audience.We tried to answer What should National Geographic do to increase engagement on its Instagram page?. Image analytics using LDA topic modeling on scraped data from the Instagram Natgeohandle, gave some insights into types of posts that are least and most engaging.</description>
     </item>
     
     <item>
@@ -52,7 +52,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
-      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. The dataset used is Goodreads book rating data.</description>
+      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
+    </item>
+    
+    <item>
+      <title>Twitter CEO engagement - NLP</title>
+      <link>https://Asayesha.github.io/projects/projects/8twitterceo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/8twitterceo/</guid>
+      <description>Twitter will increasing followers can be a social platform for CEOs to connect directly with customers. Analysed tweeting styles of CEOs from different sectors to ascertain the characteristics that make them influential. Stock price analysis (regression) showed influential CEOs can actually impact stock prices through tweets. Influential CEOs can leverage Twitter to turn negative sentiments of the crowd to positive ones and affect the market.</description>
     </item>
     
     <item>
