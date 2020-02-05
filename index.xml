@@ -42,15 +42,6 @@
     
     <item>
       <title>2</title>
-      <link>https://Asayesha.github.io/projects/projects/2book-recommendation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
-      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
-    </item>
-    
-    <item>
-      <title>3</title>
       <link>https://Asayesha.github.io/projects/projects/3instagram-engagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -59,12 +50,21 @@
     </item>
     
     <item>
-      <title>4</title>
+      <title>3</title>
       <link>https://Asayesha.github.io/projects/projects/8twitterceo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Asayesha.github.io/projects/projects/8twitterceo/</guid>
       <description>Twitter, with increasing followers, can be a social platform for CEOs to connect directly with customers. Analysed tweeting styles of CEOs from different sectors to ascertain the characteristics that make them influential. Stock price analysis (regression) showed influential CEOs can actually impact stock prices through tweets. Influential CEOs can leverage Twitter to turn negative sentiments of the crowd to positive ones and affect the market.</description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://Asayesha.github.io/projects/projects/2book-recommendation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
+      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
     </item>
     
     <item>
