@@ -32,34 +32,7 @@
     </item>
     
     <item>
-      <title>Austin Crimes</title>
-      <link>https://Asayesha.github.io/projects/projects/5austin-crimes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/5austin-crimes/</guid>
-      <description>To understand how safe is the city of Austin, we set out to analyse Austin crime data and dig deeper into why crimes in Austin increased drastically in the year 2018. The data showed that non-violent crimes have been increasing but violent crimes were decreasing.The average processing time for violent crimes is 44 days where as for non-violetn crimes is 30 days.</description>
-    </item>
-    
-    <item>
-      <title>Car Brand Association Analysis</title>
-      <link>https://Asayesha.github.io/projects/projects/7carbrand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/7carbrand/</guid>
-      <description>Marketing is all about want you want your customers to associte your brand with.User generated content can give insights on consumers&amp;rsquo; perceptions. Car reviews data scraped from Edmundsforum helped understand most discussed car brands and most discussed attributes of cars using NLP. Evaluated associations between brands using lift analysis and visualised it using Multidimesional (MDS) plot.</description>
-    </item>
-    
-    <item>
-      <title>Energy Consumption Prediction</title>
-      <link>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</guid>
-      <description>Recent global phenomena related to climate change, call for a new strategy to collectively move towards sustainable energy and reduce our carbon footprint. In one such effort, building owners are incentivised to improve building efficiencies to reduce operating costs and emissions. In this project, building energy consumption is predicted which can then be compared to the actual running costs and decide upon the incentives. Operating costs from over 1000 building over a 3 year timeframe is used to build the prediction model.</description>
-    </item>
-    
-    <item>
-      <title>Google Analytics</title>
+      <title>1</title>
       <link>https://Asayesha.github.io/projects/projects/1google-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -68,7 +41,16 @@
     </item>
     
     <item>
-      <title>Instagram User Engagement</title>
+      <title>2</title>
+      <link>https://Asayesha.github.io/projects/projects/2book-recommendation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
+      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
+    </item>
+    
+    <item>
+      <title>3</title>
       <link>https://Asayesha.github.io/projects/projects/3instagram-engagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -77,12 +59,48 @@
     </item>
     
     <item>
-      <title>Recommendation Engine</title>
-      <link>https://Asayesha.github.io/projects/projects/2book-recommendation/</link>
+      <title>4</title>
+      <link>https://Asayesha.github.io/projects/projects/8twitterceo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Asayesha.github.io/projects/projects/2book-recommendation/</guid>
-      <description>Today in the world of personalized marketing, it is important to understand each customer and target them accordingly. The task of analyzing customer behaviour from humongous data is a challenging one and this project attempts to recommend books to users based on their given ratings of other books. Collaborative filtering methods on books clustered using K-means improved accuracy and a reccomendation of mixture of books from different clusters can help solve the long tail problem and increase customer satisfaction and experience.</description>
+      <guid>https://Asayesha.github.io/projects/projects/8twitterceo/</guid>
+      <description>Twitter, with increasing followers, can be a social platform for CEOs to connect directly with customers. Analysed tweeting styles of CEOs from different sectors to ascertain the characteristics that make them influential. Stock price analysis (regression) showed influential CEOs can actually impact stock prices through tweets. Influential CEOs can leverage Twitter to turn negative sentiments of the crowd to positive ones and affect the market.</description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://Asayesha.github.io/projects/projects/7carbrand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/7carbrand/</guid>
+      <description>Marketing is all about want you want your customers to associte your brand with.User generated content can give insights on consumers&amp;rsquo; perceptions. Car reviews data scraped from Edmundsforum helped understand most discussed car brands and most discussed attributes of cars using NLP. Evaluated associations between brands using lift analysis and visualised it using Multidimesional (MDS) plot.</description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://Asayesha.github.io/projects/projects/6us-traffic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/6us-traffic/</guid>
+      <description>Fatality Analysis Reporting System (FARS) was created in the United States by the National Highway Traffic Safety Administration (NHTSA) to provide an overall measure of highway safety. It contains data on a census of fatal traffic crashes within the 50 States, the District of Columbia, and Puerto Rico.To be included in FARS, a crash must result in the death of a person (occupant of a vehicle or a non-occupant) within 30 days of the crash.</description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://Asayesha.github.io/projects/projects/5austin-crimes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/5austin-crimes/</guid>
+      <description>To understand how safe is the city of Austin, we set out to analyse Austin crime data and dig deeper into why crimes in Austin increased drastically in the year 2018. The data showed that non-violent crimes have been increasing but violent crimes were decreasing.The average processing time for violent crimes is 44 days where as for non-violetn crimes is 30 days.</description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Asayesha.github.io/projects/projects/4energy-consumption-prediction/</guid>
+      <description>Recent global phenomena related to climate change, call for a new strategy to collectively move towards sustainable energy and reduce our carbon footprint. In one such effort, building owners are incentivised to improve building efficiencies to reduce operating costs and emissions. In this project, building energy consumption is predicted which can then be compared to the actual running costs and decide upon the incentives. Operating costs from over 1000 building over a 3 year timeframe is used to build the prediction model.</description>
     </item>
     
     <item>
@@ -97,24 +115,6 @@ Setting a very low sitemap priority will tell search engines this is not importa
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
 [outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
-    </item>
-    
-    <item>
-      <title>Twitter CEO engagement - NLP</title>
-      <link>https://Asayesha.github.io/projects/projects/8twitterceo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/8twitterceo/</guid>
-      <description>Twitter, with increasing followers, can be a social platform for CEOs to connect directly with customers. Analysed tweeting styles of CEOs from different sectors to ascertain the characteristics that make them influential. Stock price analysis (regression) showed influential CEOs can actually impact stock prices through tweets. Influential CEOs can leverage Twitter to turn negative sentiments of the crowd to positive ones and affect the market.</description>
-    </item>
-    
-    <item>
-      <title>US Traffic Fatalities Analysis</title>
-      <link>https://Asayesha.github.io/projects/projects/6us-traffic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Asayesha.github.io/projects/projects/6us-traffic/</guid>
-      <description>Fatality Analysis Reporting System (FARS) was created in the United States by the National Highway Traffic Safety Administration (NHTSA) to provide an overall measure of highway safety. It contains data on a census of fatal traffic crashes within the 50 States, the District of Columbia, and Puerto Rico.To be included in FARS, a crash must result in the death of a person (occupant of a vehicle or a non-occupant) within 30 days of the crash.</description>
     </item>
     
   </channel>
